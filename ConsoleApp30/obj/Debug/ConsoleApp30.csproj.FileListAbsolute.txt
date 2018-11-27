@@ -1,0 +1,49 @@
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csprojResolveAssemblyReference.cache
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\Newtonsoft.Json.xml
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\Json.NET.Web.dll
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\System.Web.Http.dll
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\System.Web.Http.xml
+C:\Users\D3v3l0p3r\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\Json.NET.Web.dll
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.dll
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\Newtonsoft.Json.xml
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.xml
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.csprojResolveAssemblyReference.cache
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\D3v3l0p3r\Desktop\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\Json.NET.Web.dll
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\Newtonsoft.Json.dll
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Net.Http.Formatting.dll
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.dll
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.WebHost.dll
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\Newtonsoft.Json.xml
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Net.Http.Formatting.xml
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.xml
+E:\Solutionade\Currency converter\ConsoleApp30\bin\Debug\System.Web.Http.WebHost.xml
+E:\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.csprojAssemblyReference.cache
+E:\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+E:\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CopyComplete
+E:\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+E:\Solutionade\Currency converter\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
